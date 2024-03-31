@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Content/Primitive_Characters_Pack/Textures/Primitive_01/Primitive_Character_Set_01/T_Primitive_Character_Set_01_Normals.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Primitive_Characters_Pack/Textures/Primitive_01/Primitive_Character_Set_02/T_Primitive_Character_Set_02_Normals.uasset filter=lfs diff=lfs merge=lfs -text
